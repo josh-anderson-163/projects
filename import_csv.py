@@ -1,11 +1,10 @@
-# --- Making my edit here ---
 import csv
 import requests
 import base64
 import os
 from dotenv import load_dotenv
 
-# --- Configuration ---
+# --- Configuration! ---
 CSV_FILE = "taxonomy_import.csv"  # Your uploaded file
 DEFAULT_COLOR = 3
 BASE_URL = 'https://josh-anderson.paligoapp.com/api/v2/'
