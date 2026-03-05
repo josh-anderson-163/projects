@@ -13,17 +13,15 @@
    <refbody class="- topic/body        reference/refbody ">
       <section class="- topic/section ">
          <title class="- topic/title ">Overview</title>
-         <p class="- topic/p ">
-                Candy apples are typically made by dipping apples into a hot sugar
-                mixture that hardens into a glossy coating as it cools. They are
-                often served on sticks to make them easier to handle and eat.
-            </p>
+         <p class="- topic/p ">Candy apples are typically made by dipping apples into a hot sugar
+            mixture that hardens into a glossy coating as it cools. They are often served on sticks
+            to make them easier to handle and eat.</p>
       </section>
+      <!--Need to include an image for candy apples-->
       <section class="- topic/section ">
          <title class="- topic/title ">Common Coatings</title>
-         <p class="- topic/p ">
-                Candy apples may be coated with a variety of sweet mixtures, including:
-            </p>
+         <p class="- topic/p ">Candy apples may be coated with a variety of sweet mixtures,
+            including: </p>
          <ul class="- topic/ul ">
             <li class="- topic/li ">Hard sugar syrup</li>
             <li class="- topic/li ">Caramel</li>
