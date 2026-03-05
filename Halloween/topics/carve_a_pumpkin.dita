@@ -8,9 +8,9 @@
     </shortdesc>
     
     <taskbody>
-                <prereq>
+                <prereq id="prereq_ymh_rzt_m3c">
             <p>You will need the following items:</p>
-            <ul>
+            <ul id="ul_zmh_rzt_m3c">
                 <li>A pumpkin</li>
                 <li>A carving knife or pumpkin carving tool</li>
                 <li>A spoon or scoop</li>
@@ -18,59 +18,46 @@
                 <li>A candle or LED light</li>
             </ul>
         </prereq>
-        <context>
-            <p>
-                Pumpkin carving is a traditional Halloween activity that involves
-                cutting a design into a pumpkin and placing a light inside it.
-            </p>
+        <context id="context_anh_rzt_m3c">
+            <p> Pumpkin carving is a traditional Halloween activity that involves cutting a design
+                into a pumpkin and placing a light inside it. </p>
         </context>
         
 
         
-        <steps>
+        <steps id="steps_bnh_rzt_m3c">
             <step>
                 <cmd>Cut an opening in the top of the pumpkin.</cmd>
                 <info>
-                    <p>
-                        Angle the knife slightly inward to prevent the lid from falling in.
-                    </p>
+                    <p> Angle the knife slightly inward to prevent the lid from falling in. </p>
                 </info>
             </step>
-            
             <step>
                 <cmd>Scoop out the seeds and pulp.</cmd>
             </step>
-            
             <step>
                 <cmd>Draw a design on the pumpkin.</cmd>
                 <info>
                     <p>You can draw a face or any simple shape.</p>
                 </info>
             </step>
-            
-            <step>                <note type="caution">
+            <step>
+                <note type="caution" id="note_cnh_rzt_m3c">
                     <p>Cut away from your hands to avoid injury.</p>
                 </note>
                 <cmd>Cut along the drawn lines.</cmd>
-
             </step>
-            
             <step>
                 <cmd>Place a light inside the pumpkin and replace the lid.</cmd>
             </step>
-            
         </steps>
         
-        <result>
-            <p>
-                The pumpkin is carved and ready to be displayed.
-            </p>
+        <result id="result_dnh_rzt_m3c">
+            <p> The pumpkin is carved and ready to be displayed. </p>
         </result>
         
-        <postreq>
-            <p>
-                Dispose of pumpkin scraps and clean the tools after use.
-            </p>
+        <postreq id="postreq_enh_rzt_m3c">
+            <p> Dispose of pumpkin scraps and clean the tools after use. </p>
         </postreq>
         
     </taskbody>

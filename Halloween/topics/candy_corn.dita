@@ -27,12 +27,10 @@
             </image>
          </fig>
       </section>
-      <section class="- topic/section ">
+      <section class="- topic/section " id="section_cj4_mzt_m3c">
          <title class="- topic/title ">Ingredients</title>
-         <p class="- topic/p ">
-                Common ingredients found in candy corn include:
-            </p>
-         <ul class="- topic/ul ">
+         <p class="- topic/p "> Common ingredients found in candy corn include: </p>
+         <ul class="- topic/ul " id="ul_ej4_mzt_m3c">
             <li class="- topic/li ">Sugar</li>
             <li class="- topic/li ">Corn syrup</li>
             <li class="- topic/li ">Confectioner’s glaze</li>
