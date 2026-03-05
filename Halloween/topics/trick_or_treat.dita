@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      id="trick_or_treat"
+      ditaarch:DITAArchVersion="1.3"
+      domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      class="- topic/topic task/task ">
+   <title class="- topic/title ">How to Go Trick-or-Treating</title>
+   <shortdesc class="- topic/shortdesc ">
+        Trick-or-treating is a Halloween activity in which children visit homes
+        in their neighborhood to collect candy and other treats.
+    </shortdesc>
+   <taskbody class="- topic/body task/taskbody ">
+      <prereq class="- topic/section task/prereq ">
+         <p class="- topic/p ">
+                Before you begin, make sure you have a costume, a bag or container
+                for collecting candy, and adult supervision if required.
+            </p>
+      </prereq>
+      <steps class="- topic/ol task/steps ">
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Put on your costume.</cmd>
+            <info class="- topic/itemgroup task/info ">
+               <p class="- topic/p ">
+                        Choose a costume that is comfortable, visible at night, and
+                        appropriate for the weather.
+                    </p>
+            </info>
+         </step>
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Visit a nearby house with porch lights turned on.</cmd>
+            <info class="- topic/itemgroup task/info ">
+               <p class="- topic/p ">
+                        Homes with lights on typically indicate that the residents are
+                        participating in trick-or-treating.
+                    </p>
+            </info>
+         </step>
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Ring the doorbell or knock on the door.</cmd>
+         </step>
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Say “Trick or treat!” when the door is opened.</cmd>
+         </step>
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Accept the treat politely and say “thank you.”</cmd>
+         </step>
+         <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Move on to the next house.</cmd>
+         </step>
+      </steps>
+      <result class="- topic/section task/result ">
+         <p class="- topic/p ">
+                You will have collected candy or other treats while participating
+                in a traditional Halloween activity.
+            </p>
+         <p class="- topic/p ">It is possible that you will have collected <xref href="candy_corn.dita" class="- topic/xref ">Candy
+                    Corn</xref>.</p>
+      </result>
+      
+   </taskbody>
+</task>

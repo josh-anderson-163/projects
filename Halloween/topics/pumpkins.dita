@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="pumpkins">
+    <title>Pumpkins</title>
+    
+    <conbody>
+        <p>
+            Pumpkins are one of the most recognizable symbols of Halloween, commonly associated
+            with seasonal decoration, costume imagery, and the tradition of carving jack-o’-lanterns.
+            Their connection to Halloween combines agricultural history, folklore, and modern popular culture.
+        </p>
+        
+        <section>
+            <title>Historical Origins</title>
+            <p>
+                Pumpkins are native to North America and have long been cultivated as a food source.
+                Their association with Halloween can be traced to European folklore, particularly stories
+                involving carved lanterns used to ward off evil spirits. When these traditions migrated
+                to North America, pumpkins became a practical substitute for other root vegetables
+                due to their size and availability.
+            </p>
+        </section>
+        
+        <section>
+            <title>Symbolic Meaning</title>
+            <p>
+                As a symbol, pumpkins often represent the transition from harvest season into winter.
+                In the context of Halloween, they are commonly associated with protection, transformation,
+                and the boundary between the ordinary world and the supernatural.
+            </p>
+            <p>
+                The carved jack-o’-lantern, in particular, is believed to symbolize guidance and
+                vigilance, using light to keep harmful forces at bay.
+            </p>
+        </section>
+        
+        <section>
+            <title>Modern Halloween Usage</title>
+            <p>
+                Today, pumpkins are widely used as decorative elements during Halloween.
+                They appear in carved displays, artificial decorations, printed media, and digital imagery.
+                Pumpkin carving has also become a social and creative activity, often involving families
+                or community events.
+            </p>
+        </section>
+        
+        <example>
+            <title>Common Uses of Pumpkins During Halloween</title>
+            <ul>
+                <li>Carved jack-o’-lanterns placed near entrances</li>
+                <li>Pumpkin-themed indoor and outdoor decorations</li>
+                <li>Costume accessories and visual motifs</li>
+            </ul>
+        </example>
+        
+    </conbody>
+</concept>

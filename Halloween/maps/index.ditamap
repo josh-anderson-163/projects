@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"
+        domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+        class="- map/map ">
+        <title class="- topic/title ">All About Halloween</title>
+        <topicref navtitle="Trick-or-Treating">
+                <topicref href="../topics/trick_or_treat.dita" class="- map/topicref "/>
+                <mapref href="candy_to_look_out_for.ditamap" format="ditamap"/>
+        </topicref>
+        <topicref navtitle="Decorations">
+                <topicref href="../topics/decorate_a_house_for_halloween.dita"/>
+                <topicref href="../topics/how_to_store_halloween_decorations_after_use.dita"/>
+                <topicref href="../topics/pumpkins.dita">
+                <topicref class="- map/topicref " type="task" href="../topics/carve_a_pumpkin.dita"/>
+                </topicref>
+        </topicref>
+        <topicref navtitle="Symbols of Halloween">
+                <topicref navtitle="Animals">
+                        <topicref href="../topics/bats.dita"/>
+                        <topicref href="../topics/black_cats.dita"/>
+                </topicref>
+                <topicref href="../topics/ghosts.dita"/>
+                <topicref href="../topics/witches.dita"/>
+                <topicref href="../topics/haunted_houses.dita"/>
+                <topicref href="../topics/spiders_and_spiderwebs.dita"/>
+                <topicref href="../topics/full_moon.dita"/>
+                <topicref href="../topics/graveyards_and_tombstones.dita"/>
+                <topicref href="../topics/skulls_and_skeletons.dita"/>
+        </topicref>
+        <topicref navtitle="Themes of Halloween">
+                <topicref navtitle="Core Halloween Themes">
+                        <topicref href="../topics/transformation.dita"/>
+                        <topicref href="../topics/fear_of_the_unknown.dita"/>
+                        <topicref href="../topics/liminality_and_boundaries.dita"/>
+                        <topicref href="../topics/memory_and_remembrance.dita"/>
+                        <topicref href="../topics/mortality.dita"/>
+                </topicref>
+                <topicref navtitle="Social and Cultural Themes">
+                        <topicref href="../topics/playful_transgression.dita"/>
+                        <topicref href="../topics/community_and_ritual.dita"/>
+                        <topicref href="../topics/control_over_fear.dita"/>
+                </topicref>
+                <topicref navtitle="Psychological and Atmosphere Themes">
+                        <topicref href="../topics/darkness_and_night.dita"/>
+                        <topicref href="../topics/the_uncanny.dita"/>
+                        <topicref href="../topics/decay_and_impermanence.dita"/>
+                </topicref>
+                <topicref navtitle="Folklore-Driven Themes">
+                        <topicref href="../topics/magic_and_forbidden_knowledge.dita"/>
+                        <topicref href="../topics/the_supernatural.dita"/>
+                        <topicref href="../topics/fate_and_omens.dita"/>
+                </topicref>
+        </topicref>
+        <!-- Relationships are established on rows. Even though this is called a table, it doesn't totally behave like one. You can see below how one row has two items and another row
+                has three items. When you look at it in Author mode, there is a blank spot because there is no relcell there. But that's okay. And actually it's preferrable to not add
+                the empty relcell for no reason.-->
+        <reltable>
+                <relrow>
+                        <relcell>
+                                <topicref href="../topics/witches.dita"/>
+                        </relcell>
+                        <relcell>
+                                <topicref href="../topics/black_cats.dita"/>
+                        </relcell>
+                </relrow>
+                <relrow>
+                        <relcell>
+                                <topicref href="../topics/mortality.dita"/>
+                        </relcell>
+                        <relcell>
+                                <topicref href="../topics/graveyards_and_tombstones.dita"/>
+                        </relcell>
+                        <relcell>
+                                <topicref href="../topics/skulls_and_skeletons.dita"/>
+                        </relcell>
+                </relrow>
+        </reltable>
+
+</map>

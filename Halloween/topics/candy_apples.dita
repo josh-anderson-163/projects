@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+           id="candy_apples"
+           ditaarch:DITAArchVersion="1.3"
+           domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+           class="- topic/topic       reference/reference ">
+   <title class="- topic/title ">Candy Apples</title>
+   <shortdesc class="- topic/shortdesc ">
+        Candy apples are whole apples coated in a hardened sugar or candy shell
+        and are commonly associated with fairs, festivals, and Halloween.
+    </shortdesc>
+   <refbody class="- topic/body        reference/refbody ">
+      <section class="- topic/section ">
+         <title class="- topic/title ">Overview</title>
+         <p class="- topic/p ">
+                Candy apples are typically made by dipping apples into a hot sugar
+                mixture that hardens into a glossy coating as it cools. They are
+                often served on sticks to make them easier to handle and eat.
+            </p>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Common Coatings</title>
+         <p class="- topic/p ">
+                Candy apples may be coated with a variety of sweet mixtures, including:
+            </p>
+         <ul class="- topic/ul ">
+            <li class="- topic/li ">Hard sugar syrup</li>
+            <li class="- topic/li ">Caramel</li>
+            <li class="- topic/li ">Chocolate</li>
+            <li class="- topic/li ">Colored or flavored candy coatings</li>
+         </ul>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Typical Occasions</title>
+         <p class="- topic/p ">
+                Candy apples are most often prepared and sold during autumn events,
+                such as Halloween celebrations, county fairs, and seasonal festivals.
+            </p>
+      </section>
+      
+   </refbody>
+</reference>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>This is the Main Book Title</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <preface href="topics/candy_apples.dita"></preface>
+    </frontmatter>
+    <!-- Chapter with href, no nested topicrefs, and no navtitle-->
+    <chapter href="topics/black_cats.dita"/>
+    <!-- Chapter with no href, nested topicrefs, and no navtitle-->
+    <chapter>
+        <topicref href="carve_a_pumpkin.dita"></topicref>
+        <topicref href="decorate_a_house_for_halloween.dita"></topicref>
+    </chapter>
+    <!-- Chapter with no href, nested topicref, and navtitle-->
+    <chapter navtitle="Cool Chapter">
+        <topicref href="topics%20-%20Copy/taffy.dita"></topicref>
+    </chapter>
+    <!-- Chapter with href, nested topicref, and navtitle-->
+    <chapter href="topics/community_and_ritual.dita" navtitle="Unique Navtitle">
+        <topicref href="topics/control_over_fear.dita"></topicref>
+    </chapter>
+    <part href="topics/bats.dita">
+        <chapter href="topics/trick_or_treat.dita"/>
+        <chapter href="topics/full_moon.dita"/>
+    </part>
+    <part navtitle="My New Part">
+        <chapter href="topics/darkness_and_night.dita"></chapter>
+    </part>
+    <part>
+        <chapter href='topics/haunted_houses.dita'></chapter>
+    </part>
+    <appendix href="how_to_store_halloween_decorations_after_use.dita"></appendix>
+</bookmap>

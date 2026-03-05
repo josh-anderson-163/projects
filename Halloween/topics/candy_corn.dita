@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+           id="candy_corn"
+           ditaarch:DITAArchVersion="1.3"
+           domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+           class="- topic/topic       reference/reference ">
+   <title class="- topic/title ">Candy Corn</title>
+   <shortdesc class="- topic/shortdesc ">
+        Candy corn is a small, tri-colored confection traditionally associated
+        with Halloween in North America.
+    </shortdesc>
+   <refbody class="- topic/body        reference/refbody ">
+      <section class="- topic/section ">
+         <title class="- topic/title ">Overview</title>
+         <p class="- topic/p ">
+                Candy corn is typically shaped like a kernel of corn and features
+                three distinct color bands: yellow at the base, orange in the middle,
+                and white at the tip. It is known for its waxy texture and very sweet
+                flavor.
+            </p>
+         <fig id="fig_xvh_dp4_5hc" class="- topic/fig ">
+            <title class="- topic/title ">Candy Corn</title>
+            <image href="../images/Candy-Corn.jpg"
+                   id="image_yvh_dp4_5hc"
+                   scale="5"
+                   placement="inline"
+                   class="- topic/image ">
+               <alt class="- topic/alt ">A pile of candy corn</alt>
+            </image>
+         </fig>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Ingredients</title>
+         <p class="- topic/p ">
+                Common ingredients found in candy corn include:
+            </p>
+         <ul class="- topic/ul ">
+            <li class="- topic/li ">Sugar</li>
+            <li class="- topic/li ">Corn syrup</li>
+            <li class="- topic/li ">Confectioner’s glaze</li>
+            <li class="- topic/li ">Salt</li>
+            <li class="- topic/li ">Artificial flavors and colors</li>
+         </ul>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Typical Uses</title>
+         <p class="- topic/p ">
+                Candy corn is most commonly consumed as a seasonal treat but may also
+                be used for decorative purposes or incorporated into baked goods and
+                desserts.
+            </p>
+      </section>
+   </refbody>
+</reference>

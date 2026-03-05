@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="store_halloween_decorations">
+    <title>How to Store Halloween Decorations After Use</title>
+    
+    <shortdesc>
+        This task explains how to store Halloween decorations after the holiday
+        to keep them organized and in good condition for future use.
+    </shortdesc>
+    
+    <taskbody>
+       
+        
+        <prereq>
+            <p>Before you begin, make sure you have:</p>
+            <ul>
+                <li>Storage containers or boxes</li>
+                <li>Trash or recycling bags</li>
+                <li>Labels or a marker</li>
+            </ul>
+        </prereq>
+        
+        <context>
+            <p>
+                Proper storage of Halloween decorations helps prevent damage,
+                reduces clutter, and makes decorations easier to find next year.
+            </p>
+        </context>
+        
+        <steps>
+            
+            <step>
+                <cmd>Remove decorations from their display locations.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Clean decorations if necessary.</cmd>
+                <info>
+                    <p>
+                        Remove dirt, dust, or residue before storage.
+                    </p>
+                </info>
+                <stepxmp>
+                    <p>
+                        Wipe plastic decorations with a dry cloth and allow any damp items
+                        to dry completely.
+                    </p>
+                </stepxmp>
+            </step>
+            
+            <step>
+                <cmd>Sort decorations by type or location.</cmd>
+                <info>
+                    <p>
+                        Grouping similar items makes future setup easier.
+                    </p>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>Place decorations into labeled containers.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Store containers in a dry, secure location.</cmd>
+            </step>
+        </steps>
+        
+        <result>
+            <p>
+                Halloween decorations are safely stored and ready for reuse.
+            </p>
+        </result>
+        
+        <postreq>
+            <p>
+                Dispose of damaged or unwanted decorations responsibly.
+            </p>
+        </postreq>
+        
+    </taskbody>
+</task>

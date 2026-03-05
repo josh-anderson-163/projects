@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+           id="taffy"
+           ditaarch:DITAArchVersion="1.3"
+           domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+           class="- topic/topic       reference/reference ">
+   <title class="- topic/title ">Taffy</title>
+   <shortdesc class="- topic/shortdesc ">
+        Taffy is a chewy confection made from sugar, butter, and flavorings that
+        is produced by repeatedly pulling the candy to incorporate air.
+    </shortdesc>
+   <refbody class="- topic/body        reference/refbody ">
+      <section id="overview" class="- topic/section ">
+         <title class="- topic/title ">Overview</title>
+         <p class="- topic/p ">
+                Taffy is characterized by its soft, elastic texture and long shelf
+                life. The pulling process gives taffy its distinctive chewiness and
+                lightened color.
+            </p>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Common Ingredients</title>
+         <p class="- topic/p ">
+                While recipes vary, taffy typically includes the following ingredients:
+            </p>
+         <ul class="- topic/ul ">
+            <li class="- topic/li ">Sugar</li>
+            <li class="- topic/li ">Corn syrup</li>
+            <li class="- topic/li ">Butter or vegetable fat</li>
+            <li class="- topic/li ">Salt</li>
+            <li class="- topic/li ">Flavorings and colorings</li>
+         </ul>
+      </section>
+      <section class="- topic/section ">
+         <title class="- topic/title ">Varieties</title>
+         <p class="- topic/p ">
+                Taffy is produced in many flavors and styles. One well-known variation
+                is saltwater taffy, which is traditionally associated with seaside
+                resorts.
+            </p>
+      </section>
+      
+   </refbody>
+</reference>

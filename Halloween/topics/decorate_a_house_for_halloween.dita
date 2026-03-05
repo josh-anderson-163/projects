@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="decorate_house_halloween">
+    <title>Decorate a House for Halloween</title>
+    
+    <shortdesc>
+        This task describes how to decorate a house for Halloween using indoor and
+        outdoor decorations.
+    </shortdesc>
+    
+    <taskbody>
+        
+        <context>
+            <p>
+                Halloween decorations can range from simple seasonal accents to elaborate
+                themed displays. This task focuses on common household decorations.
+            </p>
+        </context>
+      
+        
+        <steps-unordered>
+            <step>
+                <cmd>Select a general decoration theme.</cmd>
+                <choices>
+                    <choice>
+                        <p>Spooky or scary</p>
+                    </choice>
+                    <choice>
+                        <p>Family-friendly or cute</p>
+                    </choice>
+                    <choice>
+                        <p>Classic autumn</p>
+                    </choice>
+                </choices>
+            </step>
+            
+            <step>
+                <cmd>Decorate the exterior of the house.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Place decorations near the front entrance.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add lighting along walkways or porches.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Position yard decorations where they are clearly visible.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            
+            <step>
+                <cmd>Decorate the interior living spaces.</cmd>
+                <info>
+                    <p>
+                        Focus on areas where guests are most likely to gather.
+                    </p>
+                </info>
+                <stepxmp>
+                    <p>
+                        Hang themed decorations on walls, place decorative items on tables,
+                        and use seasonal textiles such as cushions or tablecloths.
+                    </p>
+                </stepxmp>
+            </step>
+            
+            <step>
+                <hazardstatement type="warning" id="hazardstatement_xzt_kzc_xhc">
+                    <messagepanel id="messagepanel_yzt_kzc_xhc">
+                        <typeofhazard>Electrical hazard.</typeofhazard>
+                        <consequence>May result in injury or property damage.</consequence>
+                        <howtoavoid>Use indoor/outdoor-rated lights and inspect cords before
+                            use.</howtoavoid>
+                    </messagepanel>
+                </hazardstatement>
+                <cmd>Test all lights and electrical decorations.</cmd>
+            </step>
+        </steps-unordered>
+        
+        <result>
+            <p>
+                The house is decorated for Halloween and ready for visitors.
+            </p>
+        </result>
+        
+    </taskbody>
+</task>
