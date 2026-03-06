@@ -6,7 +6,8 @@
     <shortdesc> This task explains how to carve a pumpkin for Halloween decoration. </shortdesc>
 
     <taskbody>
-        <prereq id="prereq_ymh_rzt_m3c"><p id="p_x2r_yq1_n3c">You will need the following items:</p>
+        <prereq id="prereq_ymh_rzt_m3c">
+            <p id="p_x2r_yq1_n3c">You will need the following items:</p>
             <ul id="ul_zmh_rzt_m3c">
                 <li>A pumpkin</li>
                 <li>A carving knife or pumpkin carving tool</li>
@@ -53,7 +54,8 @@
             <p id="p_cfr_yq1_n3c">The pumpkin is carved and ready to be displayed.</p>
         </result>
 
-        <postreq id="postreq_enh_rzt_m3c"><p id="p_dfr_yq1_n3c">Dispose of pumpkin scraps and clean the tools after use.</p>
+        <postreq id="postreq_enh_rzt_m3c">
+            <p id="p_dfr_yq1_n3c">Dispose of pumpkin scraps and clean the tools after use.</p>
         </postreq>
 
     </taskbody>

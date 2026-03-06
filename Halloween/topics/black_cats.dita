@@ -4,42 +4,42 @@
     <title>Black Cats</title>
     
     <conbody>
-        <p>Black cats are a well-known symbol of Halloween, often associated with superstition,
+        <p id="p_qfr_yq1_n3c">Black cats are a well-known symbol of Halloween, often associated with superstition,
             magic, and folklore. Their distinctive appearance and long-standing role in cultural
             myths have made them a common feature of Halloween imagery and decoration. </p>
         
-        <section>
+        <section id="section_rfr_yq1_n3c">
             <title>Folklore and Superstitions</title>
-            <p>In European folklore, black cats were frequently associated with witches and
+            <p id="p_sfr_yq1_n3c">In European folklore, black cats were frequently associated with witches and
                 supernatural practices. Some traditions held that witches could transform into black
                 cats, while others viewed them as familiars that assisted in magical acts. </p>
-            <p>Over time, these beliefs contributed to widespread superstitions, including the idea
+            <p id="p_tfr_yq1_n3c">Over time, these beliefs contributed to widespread superstitions, including the idea
                 that encountering a black cat could bring misfortune. In other cultures, however,
                 black cats were regarded as symbols of good luck or protection. </p>
         </section>
         
-        <section>
+        <section id="section_ufr_yq1_n3c">
             <title>Symbolic Meaning</title>
-            <p>Symbolically, black cats often represent mystery, independence, and the unknown.
+            <p id="p_vfr_yq1_n3c">Symbolically, black cats often represent mystery, independence, and the unknown.
                 Their association with nighttime and stealth has reinforced their connection to
                 secrecy and magical thinking. </p>
-            <p>Within Halloween contexts, black cats are commonly used to evoke superstition and a
+            <p id="p_wfr_yq1_n3c">Within Halloween contexts, black cats are commonly used to evoke superstition and a
                 sense of playful unease rather than genuine fear. </p>
         </section>
         
-        <section>
+        <section id="section_xfr_yq1_n3c">
             <title>Modern Halloween Usage</title>
-            <p>In modern Halloween celebrations, black cats frequently appear in decorations,
+            <p id="p_yfr_yq1_n3c">In modern Halloween celebrations, black cats frequently appear in decorations,
                 illustrations, and costume designs. They are often depicted with arched backs,
                 glowing eyes, or accompanying witch imagery. </p>
-            <p>Black cat imagery is widely used in seasonal merchandise and media to reinforce
+            <p id="p_zfr_yq1_n3c">Black cat imagery is widely used in seasonal merchandise and media to reinforce
                 traditional Halloween themes while remaining accessible to a broad audience. Black
                 cats are not always portrayed as scary.</p>
         </section>
         
-        <example>
+        <example id="example_agr_yq1_n3c">
             <title>Common Uses of Black Cats During Halloween</title>
-            <ul>
+            <ul id="ul_bgr_yq1_n3c">
                 <li>Decorative silhouettes in window and wall displays</li>
                 <li>Illustrations paired with witches, moons, or cauldrons</li>
                 <li>Motifs on greeting cards, candy packaging, and costumes</li>

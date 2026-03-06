@@ -9,7 +9,8 @@
     <taskbody>
 
 
-        <prereq><p id="p_e2r_yq1_n3c">Before you begin, make sure you have:</p>
+        <prereq>
+            <p id="p_e2r_yq1_n3c">Before you begin, make sure you have:</p>
             <ul id="ul_f2r_yq1_n3c">
                 <li>Storage containers or boxes</li>
                 <li>Trash or recycling bags</li>
@@ -59,7 +60,8 @@
             <p id="p_l2r_yq1_n3c">Halloween decorations are safely stored and ready for reuse.</p>
         </result>
 
-        <postreq><p id="p_m2r_yq1_n3c">Dispose of damaged or unwanted decorations responsibly.</p>
+        <postreq>
+            <p id="p_m2r_yq1_n3c">Dispose of damaged or unwanted decorations responsibly.</p>
         </postreq>
 
     </taskbody>

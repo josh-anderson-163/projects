@@ -8,7 +8,8 @@
    <shortdesc class="- topic/shortdesc "> Trick-or-treating is a Halloween activity in which
       children visit homes in their neighborhood to collect candy and other treats. </shortdesc>
    <taskbody class="- topic/body task/taskbody ">
-      <prereq class="- topic/section task/prereq "><p class="- topic/p " id="p_jcr_yq1_n3c">Before you begin, make sure you have a costume, a bag or container
+      <prereq class="- topic/section task/prereq ">
+         <p class="- topic/p " id="p_jcr_yq1_n3c">Before you begin, make sure you have a costume, a bag or container
             for collecting candy, and adult supervision if required.</p>
       </prereq>
       <steps class="- topic/ol task/steps " id="steps_kcr_yq1_n3c">

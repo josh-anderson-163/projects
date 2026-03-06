@@ -2,41 +2,37 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="decorate_house_halloween">
     <title>Decorate a House for Halloween</title>
-    
-    <shortdesc>
-        This task describes how to decorate a house for Halloween using indoor and
-        outdoor decorations.
-    </shortdesc>
-    
+
+    <shortdesc> This task describes how to decorate a house for Halloween using indoor and outdoor
+        decorations. </shortdesc>
+
     <taskbody>
-        
+
         <context>
-            <p>
-                Halloween decorations can range from simple seasonal accents to elaborate
-                themed displays. This task focuses on common household decorations.
-            </p>
+            <p id="p_wdr_yq1_n3c">Halloween decorations can range from simple seasonal accents to elaborate themed
+                displays. This task focuses on common household decorations. </p>
         </context>
-      
-        
+
+
         <steps-unordered>
             <step>
                 <cmd>Select a general decoration theme.</cmd>
                 <choices>
                     <choice>
-                        <p>Spooky or scary</p>
+                        <p id="p_xdr_yq1_n3c">Spooky or scary</p>
                     </choice>
                     <choice>
-                        <p>Family-friendly or cute</p>
+                        <p id="p_ydr_yq1_n3c">Family-friendly or cute</p>
                     </choice>
                     <choice>
-                        <p>Classic autumn</p>
+                        <p id="p_zdr_yq1_n3c">Classic autumn</p>
                     </choice>
                 </choices>
             </step>
-            
+
             <step>
                 <cmd>Decorate the exterior of the house.</cmd>
-                <substeps>
+                <substeps id="substeps_a2r_yq1_n3c">
                     <substep>
                         <cmd>Place decorations near the front entrance.</cmd>
                     </substep>
@@ -48,22 +44,18 @@
                     </substep>
                 </substeps>
             </step>
-            
+
             <step>
                 <cmd>Decorate the interior living spaces.</cmd>
                 <info>
-                    <p>
-                        Focus on areas where guests are most likely to gather.
-                    </p>
+                    <p id="p_b2r_yq1_n3c">Focus on areas where guests are most likely to gather.</p>
                 </info>
                 <stepxmp>
-                    <p>
-                        Hang themed decorations on walls, place decorative items on tables,
-                        and use seasonal textiles such as cushions or tablecloths.
-                    </p>
+                    <p id="p_c2r_yq1_n3c">Hang themed decorations on walls, place decorative items on tables, and use
+                        seasonal textiles such as cushions or tablecloths.</p>
                 </stepxmp>
             </step>
-            
+
             <step>
                 <hazardstatement type="warning" id="hazardstatement_xzt_kzc_xhc">
                     <messagepanel id="messagepanel_yzt_kzc_xhc">
@@ -76,12 +68,10 @@
                 <cmd>Test all lights and electrical decorations.</cmd>
             </step>
         </steps-unordered>
-        
+
         <result>
-            <p>
-                The house is decorated for Halloween and ready for visitors.
-            </p>
+            <p id="p_d2r_yq1_n3c">The house is decorated for Halloween and ready for visitors.</p>
         </result>
-        
+
     </taskbody>
 </task>

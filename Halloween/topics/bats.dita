@@ -2,64 +2,48 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="bats">
     <title>Bats</title>
-    
+
     <conbody>
-        <p>
-            Bats are a common symbol of Halloween, frequently associated with darkness,
-            mystery, and the supernatural. Their nocturnal behavior and distinctive
-            appearance have contributed to their long-standing presence in folklore
-            and Halloween imagery.
-        </p>
-        
-        <section>
+        <p id="p_efr_yq1_n3c">Bats are a common symbol of Halloween, frequently associated with darkness, mystery, and
+            the supernatural. Their nocturnal behavior and distinctive appearance have contributed
+            to their long-standing presence in folklore and Halloween imagery. </p>
+
+        <section id="section_ffr_yq1_n3c">
             <title>Folklore and Cultural Associations</title>
-            <p>
-                In many cultures, bats have been linked to myths involving spirits,
-                omens, or transformation. European folklore often associated bats with
-                witches and haunted places, while later literary traditions connected
-                bats to vampires and other supernatural creatures.
-            </p>
-            <p>
-                These associations helped establish bats as symbols of the unseen and
-                unfamiliar, making them a natural fit for Halloween traditions.
-            </p>
+            <p id="p_gfr_yq1_n3c">In many cultures, bats have been linked to myths involving spirits, omens, or
+                transformation. European folklore often associated bats with witches and haunted
+                places, while later literary traditions connected bats to vampires and other
+                supernatural creatures. </p>
+            <p id="p_hfr_yq1_n3c">These associations helped establish bats as symbols of the unseen and unfamiliar,
+                making them a natural fit for Halloween traditions. </p>
         </section>
-        
-        <section>
+
+        <section id="section_ifr_yq1_n3c">
             <title>Symbolic Meaning</title>
-            <p>
-                Symbolically, bats often represent mystery, intuition, and the boundary
-                between light and darkness. Their ability to navigate in low-light
-                conditions has also led to associations with heightened perception and
-                hidden knowledge.
-            </p>
-            <p>
-                In Halloween contexts, bats commonly serve as visual shorthand for
-                nighttime, fear, and the supernatural.
-            </p>
+            <p id="p_jfr_yq1_n3c">Symbolically, bats often represent mystery, intuition, and the boundary between light
+                and darkness. Their ability to navigate in low-light conditions has also led to
+                associations with heightened perception and hidden knowledge. </p>
+            <p id="p_kfr_yq1_n3c">In Halloween contexts, bats commonly serve as visual shorthand for nighttime, fear,
+                and the supernatural. </p>
         </section>
-        
-        <section>
+
+        <section id="section_lfr_yq1_n3c">
             <title>Modern Halloween Usage</title>
-            <p>
-                In modern celebrations, bats are frequently depicted in decorations,
-                costumes, and graphic designs. They are often shown in silhouette form,
-                flying against night skies, moons, or haunted buildings.
-            </p>
-            <p>
-                Bat imagery is widely used in party décor, children’s crafts, and themed
-                media to create a spooky or playful atmosphere.
-            </p>
+            <p id="p_mfr_yq1_n3c">In modern celebrations, bats are frequently depicted in decorations, costumes, and
+                graphic designs. They are often shown in silhouette form, flying against night
+                skies, moons, or haunted buildings. </p>
+            <p id="p_nfr_yq1_n3c">Bat imagery is widely used in party décor, children’s crafts, and themed media to
+                create a spooky or playful atmosphere. </p>
         </section>
-        
-        <example>
+
+        <example id="example_ofr_yq1_n3c">
             <title>Common Uses of Bats in Halloween Decorations</title>
-            <ul>
+            <ul id="ul_pfr_yq1_n3c">
                 <li>Silhouette cutouts displayed on walls or windows</li>
                 <li>Hanging decorations suggesting bats in flight</li>
                 <li>Printed motifs on costumes, candy packaging, and signage</li>
             </ul>
         </example>
-        
+
     </conbody>
 </concept>
